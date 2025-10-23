@@ -1,0 +1,16 @@
+C:\Users\TimB0\source\repos\shash\shash\bin\Debug\net8.0-windows\shash.exe
+C:\Users\TimB0\source\repos\shash\shash\bin\Debug\net8.0-windows\shash.deps.json
+C:\Users\TimB0\source\repos\shash\shash\bin\Debug\net8.0-windows\shash.runtimeconfig.json
+C:\Users\TimB0\source\repos\shash\shash\bin\Debug\net8.0-windows\shash.dll
+C:\Users\TimB0\source\repos\shash\shash\bin\Debug\net8.0-windows\shash.pdb
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.Form1.resources
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.csproj.GenerateResource.cache
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.AssemblyInfoInputs.cache
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.AssemblyInfo.cs
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.csproj.CoreCompileInputs.cache
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.dll
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\refint\shash.dll
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.pdb
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.genruntimeconfig.cache
+C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\ref\shash.dll
