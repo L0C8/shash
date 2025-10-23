@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+010498c04007de91ac91ef31bad73fcd05f58a48")]
 [assembly: System.Reflection.AssemblyProductAttribute("shash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

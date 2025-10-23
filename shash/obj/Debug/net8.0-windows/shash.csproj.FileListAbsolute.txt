@@ -14,3 +14,4 @@ C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\refint\shash.dl
 C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.pdb
 C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.genruntimeconfig.cache
 C:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\ref\shash.dll
+c:\Users\TimB0\source\repos\shash\shash\obj\Debug\net8.0-windows\shash.sourcelink.json
